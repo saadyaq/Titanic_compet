@@ -1,1 +1,1 @@
-# Tiatnic_compet
+# Titanic_compet
